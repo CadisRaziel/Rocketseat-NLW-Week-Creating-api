@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/70340981/109393571-50a74600-7901-11eb-952c-66149da1ecb7.png/>
+<img src="https://user-images.githubusercontent.com/70340981/109393571-50a74600-7901-11eb-952c-66149da1ecb7.png>
 
 
 ## Comandos para começar
